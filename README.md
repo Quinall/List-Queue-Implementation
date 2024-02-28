@@ -1,4 +1,4 @@
-# Queue Implementation in C++
+# List Queue Implementation in C++
 
 This repository contains a simple implementation of a queue data structure in C++.
 
